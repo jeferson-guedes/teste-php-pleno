@@ -28,8 +28,11 @@ Obs: Não mexer nos testes, mexa nas implementações em `app/` se houver altera
 ```
 
 3. Faça o ultimo teste passar criando a classe *NumberFilter* e implementando a limpeza de numeros.
+```
+'text12345 1234 2.34' deverá virar 'text'
+```
 
-4. Implemente um solução para que seja padronizados os métodos e mais filtros possam ser criados no futuro, qual técnica de Engenharia de Software pode ser aplicada no componente Filtro?(opcional)
+4. Implemente um solução para que seja padronizados os métodos e mais filtros possam ser criados no futuro, qual técnica de Engenharia de Software pode ser aplicada no componente Filtro?(optativa)
 
 #### Conclusão
 Se você realizou o forke do projeto, me envie o link caso preferir envie o desafio em formato zip.
