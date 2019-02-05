@@ -32,8 +32,8 @@ Obs: Não mexer nos testes, mexa nas implementações em `app/` se houver altera
 4. Implemente um solução para que seja padronizados os métodos e mais filtros possam ser criados no futuro, qual técnica de Engenharia de Software pode ser aplicada no componente Filtro?(opcional)
 
 #### Conclusão
-Se você realizou o forke do projeto, me envie o link caso preferir me me envie um zip.
+Se você realizou o forke do projeto, me envie o link caso preferir envie o desafio em formato zip.
 
-As infos deverão serem mandadas via: leonardotumadjian@multiversemkt.com
+O desafio concluido deverá ser mandado para: leonardotumadjian@multiversemkt.com
 
 **Boa sorte**
