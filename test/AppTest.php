@@ -6,7 +6,7 @@ use App\Filter;
 use App\Filters\TagFilter;
 use App\Filters\NumberFilter;
 
-class AppTest extends TextCase
+class AppTest extends TestCase
 {
     /**
      * @dataProvider textProvider
